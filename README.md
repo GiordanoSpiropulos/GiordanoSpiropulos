@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giordano and I'm a Developer, from Ribeirão Preto, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Giordano and I'm a Developerfrom Ribeirão Preto, Brazil.</h2>
 
 ###
 
