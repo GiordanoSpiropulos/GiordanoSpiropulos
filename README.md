@@ -1,20 +1,22 @@
 <h2 align="left">About me</h2>
 
 ###
-<p>Fullstack developer | React | Angular | .NET | Flutter. Associate Degree on System Development. </p>
+<p>Fullstack developer | React | Angular | .NET | Flutter </p>
+
+
+</p>Associate Degree on System Development.</p>
 
 <p>Currently working on projects using Angular, .NET and React.</p>
 
 <h2 align="left">Skills</h2>
 
 <ul>
-  <li><b>Frontend:</b> JavaScript, TypeScript, React, Angular, Flutter, React Native.</li>
-  <li><b>Backend:</b> .NET(2-6), Django Rest Framework, NodeJS</li>
-  <li><b>Databases:</b> Oracle, MySQL, PostgreSQL, MongoDB</li>
-  <li><b>Tools:</b> Jest, Storybook, Git, Scrum, Kanban</li>
-  <li><b>Cloud:</b>Azure Devops</li>
+  <li><b>Frontend: </b> JavaScript, TypeScript, React, Angular, Flutter, React Native.</li>
+  <li><b>Backend: </b> .NET(2-6), Django Rest Framework, NodeJS</li>
+  <li><b>Databases: </b> Oracle, MySQL, PostgreSQL, MongoDB</li>
+  <li><b>Tools: </b> Jest, Storybook, Git, Scrum, Kanban</li>
+  <li><b>Cloud: </b>Azure Devops</li>
 </ul>
-
 
 <h2>Contact</h2>
 <div align="left">
